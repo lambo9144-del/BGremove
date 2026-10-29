@@ -1,0 +1,4 @@
+[2026-10-22T08:00:38+02:00] Blocked provider output host: cdn2.pixelcut.app
+[2026-10-22T08:00:38+02:00] Processing failed: RuntimeException Pixelcut returned an unexpected image host. Contact the site administrator.
+[2026-10-22T08:11:35+02:00] Pixelcut output host: cdn2.pixelcut.app
+[2026-10-22T09:11:37+02:00] Pixelcut output host: cdn2.pixelcut.app
